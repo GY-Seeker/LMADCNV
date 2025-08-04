@@ -20,7 +20,10 @@ LMADCNV
   - pythresh
   - rpy2
 - R
+  - BiocManager
   - DNAcopy
+
+
 
 ### Simple usage
 
